@@ -3,11 +3,11 @@ layout: post
 title: About
 ---
 <p>
-This theme is available for free under the MIT open source software license.
+Some overview of myself
 <br>
-The theme can be found <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">here</a>.
+Some more overview of myself.
 <br>
-The theme requires <a href="https://jekyllrb.com">Jekyll</a>, a static-site generator compatible with <a href="https://pages.github.com">pages.github.com</a>.
+Some more overview of myself.
 </p>
 
 <hr>
