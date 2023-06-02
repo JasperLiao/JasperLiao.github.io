@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 <p>
-Some overview of myself
+My name is Fangshuo Liao (廖芳烁) and my preferred name is Jasper. I am a PhD student in Computer Science at Rice University in Houston, TX advised by <a href="https://akyrillidis.github.io/about/">Dr. Anastasios Kyrillidis</a>. Before that, I received Bachelor of Science in Computer science and Bachelor of Arts in Mathematcs degree from Rice University in 2020.
 <br>
 Some more overview of myself.
 <br>
