@@ -8,6 +8,8 @@ tags: [sample post]
 date-string: NOVEMBER 20, 2016
 ---
 
+add a folder in "root" named "_posts" and put the ".md" files in it.
+
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1
