@@ -45,12 +45,11 @@ profiles:
     url: https://scholar.google.com/citations?user=WIwcFN8AAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Interest 1
+  - Interest 2
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Computer Science
     institution: Rice University
     date_start: 2016-01-01
     date_end: 2020-12-31
