@@ -45,8 +45,10 @@ profiles:
     url: https://scholar.google.com/citations?user=WIwcFN8AAAAJ&hl=en
 
 interests:
-  - Interest 1
-  - Interest 2
+  - Convex/Nonconvex Optimization
+  - Deep Learning Theory
+  - Efficient ML Algorithms
+  - Low Dimensional Models/Pruning
 
 education:
   - area: Ph.D. Computer Science
