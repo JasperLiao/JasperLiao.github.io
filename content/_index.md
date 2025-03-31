@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Fangshuo Liao
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -35,10 +35,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I try to answer the following questions:
+        In the broad field of machine learning, I try to answer the following questions:
         - What is the theoretical guarantee of Algorithm A?
         - What are the mathematical properties of Problem B?
         - How can we leverage the mathematical properties of problems to design effective and provable algorithms?
+
+        My recent focus is on the theory of deep learning.
     design:
       columns: '1'
   - block: collection
@@ -102,7 +104,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
