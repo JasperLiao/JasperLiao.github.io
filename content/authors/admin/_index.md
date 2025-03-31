@@ -51,13 +51,8 @@ interests:
 education:
   - area: PhD Computer Science
     institution: Rice University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    date_start: 2021-08
+    date_end: Now
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -182,4 +177,4 @@ awards:
 
 My name is Fangshuo Liao (廖芳烁) and my preferred name is Jasper. I am a PhD student in Computer Science at Rice University in Houston, TX advised by <a href="https://akyrillidis.github.io/about/">Dr. Anastasios Kyrillidis</a>. Before that, I received Bachelor of Science in Computer science and Bachelor of Arts in Mathematcs from Rice University in 2020.
 
-My research interest lies broadly in deep learning theory, convex and nonconvex optimization, as well as developing methods that provably improve the efficiency of solving machine learning problems. In particular, my works include the theory of distributed training methods, neural network pruning, as well as gradient-based algorithm when applied to neural networks.
+My research interest lies broadly in deep learning theory, convex and nonconvex optimization, as well as developing methods that provably improve the efficiency of solving machine learning problems. In particular, my works include the theory of distributed training methods, neural network pruning, as well as gradient-based algorithm when applied to neural networks.g
