@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: Fangshuo Liao
+      text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I try to answer the following questions:
+        - What is the theoretical guarantee of Algorithm A?
+        - What are the mathematical properties of Problem B?
+        - How can we leverage the mathematical properties of problems to design effective and provable algorithms?
     design:
       columns: '1'
   - block: collection
