@@ -49,32 +49,24 @@ interests:
   - Interest 2
 
 education:
-  - area: PhD Computer Science
+  - area: Ph.D. Computer Science
     institution: Rice University
-    date_start: 2016-01-01
-    date_end: 2016-01-01
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-08-01
+    date_end: 2026-05-09
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 4.0/4.0
+  - area: B.S. Computer Science
+    institution: Rice University
+    date_start: 2016-08-22
+    date_end: 2020-05-09
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.9/4.0
+  - area: B.A. Mathematics
+    institution: Rice University
+    date_start: 2016-08-22
+    date_end: 2020-05-09
+    summary: |
+      GPA: 3.9/4.0
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
