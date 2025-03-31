@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fangshuo (Jasper) Liao
+title: Fangshuo Liao
 
 # Name pronunciation (optional)
 name_pronunciation: ''
