@@ -1,7 +1,7 @@
 ---
 title: "On the Convergence of Shallow Neural Network Training with Randomly Masked Neurons"
 authors:
-    - "*Fangshuo Liao*"
+    - admin
     - Anastasios Kyrillidis
 date: "2019-04-07T00:00:00Z"
 doi: ""
