@@ -51,8 +51,8 @@ interests:
 education:
   - area: PhD Computer Science
     institution: Rice University
-    date_start: 2021-08
-    date_end: Now
+    date_start: 2016-01-01
+    date_end: 2016-01-01
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
