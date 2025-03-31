@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Fangshuo (Jasper) Liao
+title: Fangshuo Liao
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Jasper
 
 # Full name (for SEO)
 first_name: Fangshuo
