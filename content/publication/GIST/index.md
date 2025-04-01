@@ -1,10 +1,21 @@
 ---
-title: "On the Convergence of Shallow Neural Network Training with Randomly Masked Neurons"
+title: "GIST: Distributed Training for Large-Scale Graph Convolutional Networks"
 authors:
+    - Cameron R. Wolfe
+    - Jingkang Yang
     - admin
+    - Arindam Chowdhury
+    - Chen Dun
+    - Artun Bayer
+    - Santiago Segarra
     - Anastasios Kyrillidis
-date: "2019-04-07T00:00:00Z"
+date: "2023-02-07T00:00:00Z"
 doi: ""
+
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 reading_time: false
 # Schedule page publish date (NOT publication's date).
@@ -16,26 +27,39 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions on Machine Learning, 2022*"
-publication_short: "TMLR"
+publication: "* Journal of Applied and Computational Topology, 2023*"
+publication_short: ''
 
-abstract: "With the motive of training all the parameters of a neural network, we study why and when one can achieve this by iteratively creating, training, and combining randomly selected subnetworks. Such scenarios have either implicitly or explicitly emerged in the recent literature: see e.g., the Dropout family of regularization techniques, or some distributed ML training protocols that reduce communication/computation complexities, such as the Independent Subnet Training protocol. While these methods are studied empirically and utilized in practice, they often enjoy partial or no theoretical support, especially when applied on neural network-based objectives.\n
-
-In this manuscript, our focus is on overparameterized single hidden layer neural networks with ReLU activations in the lazy training regime. By carefully analyzing i) the subnetworks’ neural tangent kernel, ii) the surrogate functions’ gradient, and iii) how we sample and combine the surrogate functions, we prove linear convergence rate of the training error –up to a neighborhood around the optimal point– for an overparameterized single-hidden layer perceptron with a regression loss. Our analysis reveals a dependency of the size of the neighborhood around the optimal point on the number of surrogate models and the number of local training steps for each selected subnetwork. Moreover, the considered framework generalizes and provides new insights on dropout training, multi-sample dropout training, as well as Independent Subnet Training; for each case, we provide convergence results as corollaries of our main theorem."
+abstract: "The graph convolutional network (GCN) is a goto solution for machine learning on graphs, but
+its training is notoriously difficult to scale both
+in terms of graph size and the number of model
+parameters. Although some work has explored
+training on large-scale graphs (e.g., GraphSAGE,
+ClusterGCN, etc.), we pioneer efficient training
+of large-scale GCN models (i.e., ultra-wide, overparameterized models) with the proposal of a
+novel, distributed training framework. Our proposed training methodology, called GIST, disjointly partitions the parameters of a GCN model
+into several, smaller sub-GCNs that are trained
+independently and in parallel. In addition to being compatible with all GCN architectures and
+existing sampling techniques for efficient GCN
+training, GIST i) improves model performance,
+ii) scales to training on arbitrarily large graphs,
+iii) decreases wall-clock training time, and iv) enables the training of markedly overparameterized
+GCN models. Remarkably, with GIST, we train
+an astonishgly-wide 32,768-dimensional GraphSAGE model, which exceeds the capacity of a
+single GPU by a factor of 8×, to SOTA performance on the Amazon2M dataset."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deep Learning Theory
+- Distributed Learning
 
 featured: true
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2112.02668
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://arxiv.org/pdf/2102.10424
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

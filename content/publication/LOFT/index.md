@@ -35,7 +35,7 @@ In this paper, we explore how one can efficiently identify the emergence of such
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Neural Network Pruning
+- Neural Network Pruning, Distributed Learning
 
 featured: true
 

@@ -26,7 +26,7 @@ abstract: 'We study a distributed Principal Component Analysis (PCA) framework w
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deep Learning Theory
+- Distributed Learning
 
 featured: true
 
