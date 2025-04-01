@@ -60,6 +60,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2102.10424
+url_code: https://github.com/wolfecameron/GIST
+url_poster: https://github.com/JasperLiao/JasperLiao.github.io/blob/master/content/publication/GIST/poster.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

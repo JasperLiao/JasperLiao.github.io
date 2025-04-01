@@ -34,6 +34,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2502.17615
+url_code: https://github.com/JLiao980706/ParallelDeflation
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
