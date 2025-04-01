@@ -6,6 +6,8 @@ authors:
 date: "2024-03-01T00:00:00Z"
 doi: ""
 
+reading_time: false
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
