@@ -39,6 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://proceedings.mlr.press/v237/liao24a/liao24a.pdf
+url_poster: https://jasperliao.github.io/uploads/nesterov_poster.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

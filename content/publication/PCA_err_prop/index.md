@@ -49,6 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2310.04283
+url_poster: https://jasperliao.github.io/uploads/err_prop_poster.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

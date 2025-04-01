@@ -44,6 +44,7 @@ featured: false
 #   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2210.16169
 url_code: https://github.com/dunchen/LOFT_release
+url_poster: https://jasperliao.github.io/uploads/LOFT_poster.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
