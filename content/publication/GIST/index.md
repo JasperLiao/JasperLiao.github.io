@@ -27,7 +27,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Journal of Applied and Computational Topology, 2023*"
+publication: "*Journal of Applied and Computational Topology, 2023*"
 publication_short: ''
 
 abstract: "The graph convolutional network (GCN) is a goto solution for machine learning on graphs, but
@@ -54,7 +54,7 @@ single GPU by a factor of 8×, to SOTA performance on the Amazon2M dataset."
 tags:
 - Distributed Learning
 
-featured: true
+featured: false
 
 # links:
 # - name: Custom Link

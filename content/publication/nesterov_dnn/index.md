@@ -18,7 +18,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Conference on Algorithmic Learning Theory, 2024*"
-publication_short: "TMLR"
+publication_short: "ALT"
 
 abstract: "Current state-of-the-art analyses on the convergence of gradient descent for training neural networks focus on characterizing properties of the loss landscape, such as the Polyak-Łojaciewicz
 (PL) condition and the restricted strong convexity. While gradient descent converges linearly under such conditions, it remains an open question whether Nesterov’s momentum enjoys accelerated

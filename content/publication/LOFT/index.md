@@ -37,7 +37,7 @@ In this paper, we explore how one can efficiently identify the emergence of such
 tags:
 - Neural Network Pruning, Distributed Learning
 
-featured: true
+featured: false
 
 # links:
 # - name: Custom Link
