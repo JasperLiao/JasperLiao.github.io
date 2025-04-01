@@ -3,6 +3,7 @@ title: "On the Error-Propagation of Inexact Hotelling's Deflation for Principal 
 authors:
     - admin
     - J. Lyle Kim
+    - Cruz Barnum
     - Anastasios Kyrillidis
 date: "2024-07-07T00:00:00Z"
 doi: ""
@@ -16,8 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* International Conference on Machine
-Learning, 2024*"
+publication: "*International Conference on Machine Learning, 2024*"
 publication_short: "ICML"
 
 abstract: "Principal Component Analysis (PCA) aims to find
