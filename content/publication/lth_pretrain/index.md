@@ -1,10 +1,17 @@
 ---
-title: "On the Convergence of Shallow Neural Network Training with Randomly Masked Neurons"
+title: "How Much Pre-training Is Enough to Discover a Good Subnetwork?"
 authors:
+    - Cameron R. Wolfe
     - admin
+    - Qihan Wang
+    - J. Lyle Kim
     - Anastasios Kyrillidis
-date: "2019-04-07T00:00:00Z"
+date: "2024-02-23T00:00:00Z"
 doi: ""
+
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,26 +22,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions on Machine Learning, 2022*"
+publication: "*Transactions on Machine Learning, 2024*"
 publication_short: "TMLR"
 
-abstract: "With the motive of training all the parameters of a neural network, we study why and when one can achieve this by iteratively creating, training, and combining randomly selected subnetworks. Such scenarios have either implicitly or explicitly emerged in the recent literature: see e.g., the Dropout family of regularization techniques, or some distributed ML training protocols that reduce communication/computation complexities, such as the Independent Subnet Training protocol. While these methods are studied empirically and utilized in practice, they often enjoy partial or no theoretical support, especially when applied on neural network-based objectives.\n
-
-In this manuscript, our focus is on overparameterized single hidden layer neural networks with ReLU activations in the lazy training regime. By carefully analyzing i) the subnetworks’ neural tangent kernel, ii) the surrogate functions’ gradient, and iii) how we sample and combine the surrogate functions, we prove linear convergence rate of the training error –up to a neighborhood around the optimal point– for an overparameterized single-hidden layer perceptron with a regression loss. Our analysis reveals a dependency of the size of the neighborhood around the optimal point on the number of surrogate models and the number of local training steps for each selected subnetwork. Moreover, the considered framework generalizes and provides new insights on dropout training, multi-sample dropout training, as well as Independent Subnet Training; for each case, we provide convergence results as corollaries of our main theorem."
+abstract: "Neural network pruning is useful for discovering efficient, high-performing subnetworks within pre-trained, dense network architectures. More often than not, it involves a three-step process—pretraining, pruning, and re-training—that is computationally expensive, as the dense model must
+be fully pre-trained. While previous work has revealed through experiments the relationship between the amount of pre-training and the performance of the pruned network, a theoretical characterization of such dependency is still missing. Aiming to mathematically analyze the
+amount of dense network pre-training needed for a pruned network to perform well, we discover a simple theoretical bound in the number of gradient descent pre-training iterations on a twolayer, fully-connected network, beyond which pruning via greedy forward selection [61] yields
+a subnetwork that achieves good training error. Interestingly, this threshold is shown to be
+logarithmically dependent upon the size of the dataset, meaning that experiments with larger
+datasets require more pre-training for subnetworks obtained via pruning to perform well. Lastly,
+we empirically validate our theoretical results on a multi-layer perceptron trained on MNIST."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deep Learning Theory
+- Deep Learning Theory, Neural Network Pruning
 
-featured: true
+featured: false
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2112.02668
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://arxiv.org/pdf/2108.00259
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

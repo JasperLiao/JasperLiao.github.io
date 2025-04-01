@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Conference on Artificial Intelligence and Statistics*"
+publication: "*International Conference on Artificial Intelligence and Statistics, 2022*"
 publication_short: "AISTATS"
 
 abstract: 'Recent work on the Lottery Ticket Hypothesis (LTH) shows that there exist "**winning tickets**" in large neural networks. These tickets represent "sparse" versions of the full model that can be trained independently to achieve comparable accuracy with respect to the full model. However, finding the winning tickets requires one to pretrain the large model for at least a number of epochs, which can be a burdensome task, especially when the original neural network gets larger.
