@@ -3,7 +3,7 @@ title: "On the Convergence of Shallow Neural Network Training with Randomly Mask
 authors:
     - admin
     - Anastasios Kyrillidis
-date: "2019-04-07T00:00:00Z"
+date: "2022-06-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
