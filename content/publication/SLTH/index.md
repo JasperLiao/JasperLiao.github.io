@@ -1,6 +1,7 @@
 ---
 title: Strong Lottery Ticket Hypothesis with $\epilon$–perturbation
 authors:
+    - Zheyang Xiong
     - admin
     - Anastasios Kyrillidis
 date: "2023-02-31T00:00:00Z"
