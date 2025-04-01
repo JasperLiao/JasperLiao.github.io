@@ -1,7 +1,10 @@
 ---
-title: "On the Convergence of Shallow Neural Network Training with Randomly Masked Neurons"
+title: "LOFT: Finding Lottery Tickets through Filter-wise Training"
 authors:
+    - Qihan Wang
+    - Chen Dun
     - admin
+    - Chris Jermaine
     - Anastasios Kyrillidis
 date: "2019-04-07T00:00:00Z"
 doi: ""
@@ -12,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Transactions on Machine Learning, 2022*"
