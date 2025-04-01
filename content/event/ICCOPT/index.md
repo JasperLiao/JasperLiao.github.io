@@ -1,5 +1,5 @@
 ---
-title: eProvable Accelerated Convergence of Nesterov’s Momentum for Deep ReLU Neural Networks
+title: Provable Accelerated Convergence of Nesterov’s Momentum for Deep ReLU Neural Networks
 
 event: ICCOPT 2025
 event_url: ''
