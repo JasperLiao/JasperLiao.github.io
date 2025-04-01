@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v235-liao24a,
+  title = 	 {On the Error-Propagation of Inexact Hotelling’s Deflation for Principal Component Analysis},
+  author =       {Liao, Fangshuo and Kim, Junhyung Lyle and Barnum, Cruz and Kyrillidis, Anastasios},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  pages = 	 {29720--29747},
+  year = 	 {2024},
+  editor = 	 {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+  volume = 	 {235},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {21--27 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v235/main/assets/liao24a/liao24a.pdf},
+  url = 	 {https://proceedings.mlr.press/v235/liao24a.html},
+  abstract = 	 {Principal Component Analysis (PCA) aims to find subspaces spanned by the so-called <em>principal components</em> that best represent the variance in the dataset. The deflation method is a popular meta-algorithm that sequentially finds individual principal components, starting from the most important ones and working towards the less important ones. However, as deflation proceeds, numerical errors from the imprecise estimation of principal components propagate due to its sequential nature. This paper mathematically characterizes the error propagation of the inexact Hotelling’s deflation method. We consider two scenarios: $i)$ when the sub-routine for finding the leading eigenvector is abstract and can represent various algorithms; and $ii)$ when power iteration is used as the sub-routine. In the latter case, the additional directional information from power iteration allows us to obtain a tighter error bound than the sub-routine agnostic case. For both scenarios, we explicitly characterize how the errors progress and affect subsequent principal component estimations.}
+}
