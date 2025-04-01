@@ -61,7 +61,7 @@ featured: false
 #   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2102.10424
 url_code: https://github.com/wolfecameron/GIST
-url_poster: https://jasperliao.github.io/content/publication/GIST/poster.pdf
+url_poster: https://jasperliao.github.io/uploads/GIST_poster.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
