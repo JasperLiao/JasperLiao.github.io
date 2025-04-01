@@ -1,40 +1,55 @@
 ---
-title: "On the Convergence of Shallow Neural Network Training with Randomly Masked Neurons"
+title: Strong Lottery Ticket Hypothesis with $\epilon$–perturbation
 authors:
     - admin
     - Anastasios Kyrillidis
-date: "2019-04-07T00:00:00Z"
+date: "2023-02-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
+reading_time: false
+
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions on Machine Learning, 2022*"
-publication_short: "TMLR"
+publication: "*International Conference on Artificial
+Intelligence and Statistics, 2023*"
+publication_short: "AISTATS"
 
-abstract: "With the motive of training all the parameters of a neural network, we study why and when one can achieve this by iteratively creating, training, and combining randomly selected subnetworks. Such scenarios have either implicitly or explicitly emerged in the recent literature: see e.g., the Dropout family of regularization techniques, or some distributed ML training protocols that reduce communication/computation complexities, such as the Independent Subnet Training protocol. While these methods are studied empirically and utilized in practice, they often enjoy partial or no theoretical support, especially when applied on neural network-based objectives.\n
-
-In this manuscript, our focus is on overparameterized single hidden layer neural networks with ReLU activations in the lazy training regime. By carefully analyzing i) the subnetworks’ neural tangent kernel, ii) the surrogate functions’ gradient, and iii) how we sample and combine the surrogate functions, we prove linear convergence rate of the training error –up to a neighborhood around the optimal point– for an overparameterized single-hidden layer perceptron with a regression loss. Our analysis reveals a dependency of the size of the neighborhood around the optimal point on the number of surrogate models and the number of local training steps for each selected subnetwork. Moreover, the considered framework generalizes and provides new insights on dropout training, multi-sample dropout training, as well as Independent Subnet Training; for each case, we provide convergence results as corollaries of our main theorem."
+abstract: "The strong Lottery Ticket Hypothesis (LTH) (Ramanujan et al., 2019; Zhou et al., 2019) claims
+the existence of a subnetwork in a sufficiently
+large, randomly initialized neural network that
+approximates some target neural network without the need of training. We extend the theoretical guarantee of the strong LTH literature
+to a scenario more similar to the original LTH,
+by generalizing the weight change in the pretraining step to some perturbation around initialization. In particular, we focus on the following
+open questions: By allowing an ε-scale perturbation on the random initial weights, can we reduce the over-parameterization requirement for
+the candidate network in the strong LTH? Furthermore, does the weight change by SGD coincide with a good set of such perturbation?
+We answer the first question by first extending
+the theoretical result on the subset sum problem (Lueker, 1998) to allow perturbation on the
+candidates. Applying this result to the neural network setting, we show that by allowing
+ε-scale perturbation, we can reduce the overparameterization requirement of the strong LTH
+by a factor of O(1/(1 + ε)). To answer the second question, we show via experiments that the
+perturbed weight achieved by the projected SGD
+shows better performance under the strong LTH
+pruning."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deep Learning Theory
+- Deep Learning Theory, Neural Network Pruning
 
-featured: true
+featured: false
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2112.02668
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://proceedings.mlr.press/v206/xiong23a/xiong23a.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

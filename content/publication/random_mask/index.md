@@ -30,7 +30,7 @@ In this manuscript, our focus is on overparameterized single hidden layer neural
 tags:
 - Deep Learning Theory
 
-featured: true
+featured: false
 
 # links:
 # - name: Custom Link
