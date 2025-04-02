@@ -173,6 +173,6 @@ My name is <b>Fangshuo Liao (廖芳烁)</b>, and my preferred name is <b>Jasper<
 
 My research interest lies broadly in deep learning theory, convex and nonconvex optimization, as well as developing methods that provably improve the efficiency of solving machine learning problems.
 
-Aside from work, I am also interested in cooking, coffee making, board games, and murder mystery games (剧本杀). In the past two years, I also participated in the theatrical productions at Rice Chinese Theater Club, where I was the president, production stage manager, and an actor.
+Aside from work, I am interested in cooking, coffee making, board games, and murder mystery games (剧本杀). In the past two years, I also participated in the theatrical productions at Rice Chinese Theater Club, where I was the president, production stage manager, and an actor.
 
-I also have three cats. I love them a lot!
+I have three cats, and I love them a lot!
