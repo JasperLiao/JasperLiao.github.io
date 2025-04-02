@@ -1,24 +1,24 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
+title: Looking for Post-Doc Position Starting May-Aug 2026
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+date: 2025-04-02
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
-  - Ted
 
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+# tags:
+#   - Academic
+#   - Hugo Blox
+#   - Markdown
 ---
 
-Welcome 👋
+
+<!-- Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
@@ -83,4 +83,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->

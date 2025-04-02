@@ -169,6 +169,10 @@ education:
 
 ## About Me
 
-My name is <b>Fangshuo Liao (廖芳烁)</b> and my preferred name is <b>Jasper</b>. I am a PhD student in Computer Science at Rice University in Houston, TX advised by <a href="https://akyrillidis.github.io/about/">Dr. Anastasios Kyrillidis</a>. Before that, I received Bachelor of Science in Computer Science and Bachelor of Arts in Mathematcs from Rice University in 2020.
+My name is <b>Fangshuo Liao (廖芳烁)</b>, and my preferred name is <b>Jasper</b>. I am a PhD candidate in Computer Science at Rice University in Houston, TX, advised by <a href="https://akyrillidis.github.io/about/">Dr. Anastasios Kyrillidis</a>. I also participate in the <a href='https://akyrillidis.github.io/aiowls/'>AI-OWLS</a> research cluster. Before my PhD, I received a Bachelor of Science in Computer Science and Bachelor of Arts in Mathematics from Rice University in 2020.
 
-My research interest lies broadly in deep learning theory, convex and nonconvex optimization, as well as developing methods that provably improve the efficiency of solving machine learning problems. In particular, my works include the theory of distributed training methods, neural network pruning, as well as gradient-based algorithm when applied to neural networks.
+My research interest lies broadly in deep learning theory, convex and nonconvex optimization, as well as developing methods that provably improve the efficiency of solving machine learning problems.
+
+Aside from work, I am also interested in cooking, coffee making, board games, and murder mystery games (剧本杀). In the past two years, I also participated in the theatrical productions of Rice Chinese Theater Club, where I was the president, production stage manager, and an actor.
+
+I also have three cats. I love them a lot!

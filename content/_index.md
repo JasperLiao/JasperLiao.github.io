@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        In the broad field of machine learning, I try to answer the following questions:
+        Consider Algorithm A and Problem B that naturally arises in the broad field of machine learning. I try to answer the following questions:
         - What is the theoretical guarantee of Algorithm A?
         - What are the mathematical properties of Problem B?
         - How can we leverage the mathematical properties of problems to design effective and provable algorithms?
