@@ -38,7 +38,7 @@ sections:
         Consider Algorithm A and Problem B that naturally arises in the broad field of machine learning. I try to answer the following questions:
         - What is the theoretical guarantee of Algorithm A?
         - What are the mathematical properties of Problem B?
-        - How can we leverage the mathematical properties of Problem B to design a more effective and provable version of Algorithm A?
+        - How to leverage the mathematical properties of Problem B to design a more effective and provable version of Algorithm A?
 
         My recent focus is on the theory of deep learning.
     design:
