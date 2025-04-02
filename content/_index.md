@@ -35,10 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Consider Algorithm A and Problem B that naturally arises in the broad field of machine learning. I try to answer the following questions:
+        Consider Algorithm A for Problem B that naturally arises in the broad field of machine learning. I try to answer the following questions:
         - What is the theoretical guarantee of Algorithm A?
         - What are the mathematical properties of Problem B?
-        - How to leverage the mathematical properties of Problem B to design a more effective and provable version of Algorithm A?
+        - How to leverage the mathematical properties of Problem B to design a better version of Algorithm A?
 
         My recent focus is on the theory of deep learning.
     design:
