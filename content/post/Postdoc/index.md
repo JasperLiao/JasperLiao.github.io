@@ -1,6 +1,6 @@
 ---
 title: Looking for Post-Doc Position Starting May-Aug 2026
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: I am happy to discuss my research experience and research goal if anyone is interested!
 date: 2025-04-02
 
 # Featured image
